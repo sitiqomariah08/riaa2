@@ -74,3 +74,5 @@ Pada contoh kode tersebut, terdapat tiga interface yang didefinisikan: `Affordab
 3. Super: Keyword yang merujuk ke superclass dan digunakan untuk memanggil constructor atau metode superclass.
 4. This: Keyword yang merujuk pada objek saat ini, sering digunakan untuk mengatasi kebingungan antara variabel instance dan parameter.
 5. Interface: Sebuah kontrak yang mendeklarasikan metode tanpa implementasi, memungkinkan class untuk mengimplementasikan perilaku yang didefinisikan dalam interface.
+
+Semoga penjelasan diatas dapat membantu memahami materi dalam tugas pertemuan 2 mata kuliah Pemrograman Berorientasi Objek ini.
